@@ -349,6 +349,7 @@ ul, li {
     background-color: #fff;
     margin: 0 15px 50px;
     padding: 55px 20px 25px;
+    font-family: "Zeyada", "Amatic SC";
 }
 #Services .each-service .service-icon {
 	position: absolute;
@@ -716,7 +717,7 @@ ul, li {
 	padding: 0 10px;
 }
 #Footer .social-share ul li a:hover .fa-facebook {
-	color: #3b5998;
+	color: #fff;
 }
 #Footer .social-share ul li a:hover .fa-twitter {
 	color: #00aced;
