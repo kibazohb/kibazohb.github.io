@@ -282,8 +282,10 @@ ul, li {
 #HeroBanner {
 	display: table;
 	width: 100%;
-	height: 75vh;
-	background: url(../images/body.jpeg)no-repeat 0 0 / cover;
+	height: 70vh;
+	background: url(../images/body.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
 #HeroBanner .hero-content {
