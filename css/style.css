@@ -760,7 +760,8 @@ ul, li {
 	height: relative;
 	text-align: center;
 	background: url(../images/umbrellas.jpeg);
-	background-size: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
 	background-attachment: fixed;
 }
 #newcontact .block-heading h2 {
