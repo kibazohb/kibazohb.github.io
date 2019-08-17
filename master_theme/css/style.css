@@ -282,8 +282,8 @@ ul, li {
 #HeroBanner {
 	display: table;
 	width: 100%;
-	height: 70vh;
-	background: url(../images/body.jpeg);
+	height: 65vh;
+	background: url(../images/streetart.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -291,9 +291,27 @@ ul, li {
 #HeroBanner .hero-content {
 	display: table-cell;
 	background-color: rgba(10,40,60,0.4);
-	text-align: center;
-	vertical-align: middle;
-	padding: 0 15px;
+	/*text-align: left;
+	vertical-align: bottom;
+	padding: 0 15px;*/
+	padding: 220px 0 130px;
+}
+#HeroBanner .hero-content .hero-title{
+	font-size: 70px;
+    color: #fff;
+    line-height: 1;
+
+}
+
+#HeroBanner .hero-content .hero-text{
+	font-size: 25px;
+    color: #fff;
+
+}
+#HeroBanner .hero-content .hero-divider {
+	border-bottom: 1px solid rgba(255,255,255,.4);
+    padding-bottom: 20px;
+    margin-bottom: 35px;
 }
 #HeroBanner .hero-content h1 {
 	font-size: 48px;
@@ -739,7 +757,7 @@ ul, li {
 	width: 100%;
 	height: 60vh;
 	text-align: center;
-	background: url(../images/volcano.jpeg) no-repeat 0 20% / cover;
+	background: url(../images/umbrellas.jpeg) no-repeat 0 20% / cover;
 	background-attachment: fixed;
 }
 #newcontact .block-heading h2 {
@@ -751,16 +769,17 @@ ul, li {
 
 #newcontact .social-share {
   width: 100%;
-  margin-bottom: 60px;
+  margin: auto;
 }
 
 #newcontact .social-share ul li {
 	list-style: none;
 	display: inline-block;
 	vertical-align: middle;
+	
 }
 #newcontact .social-share ul li a {
-	font-size: 120px;
+	font-size: 90px;
 	color: #fff;
 	padding: 0 60px;
 }
@@ -773,6 +792,9 @@ ul, li {
 #newcontact .social-share ul li a:hover .fa-linkedin {
 	color: #0077B5;
 }
+
+
+
 
 
 
