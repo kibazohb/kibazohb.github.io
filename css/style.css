@@ -760,7 +760,6 @@ ul, li {
 	height: relative;
 	text-align: center;
 	background: url(../images/umbrellas.jpeg);
-	background-repeat: no-repeat;
 	background-size: 100%;
 	background-attachment: fixed;
 }
