@@ -305,7 +305,8 @@ ul, li {
 }
 
 #HeroBanner .hero-content .hero-text{
-	font-size: 25px;
+	font-family: "Montserrat";
+	font-size: 27px;
     color: #fff;
 
 }
