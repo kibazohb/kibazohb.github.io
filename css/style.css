@@ -370,7 +370,7 @@ ul, li {
     background-color: #fff;
     margin: 0 15px 50px;
     padding: 55px 20px 25px;
-    font-family: "Zeyada", "Amatic SC";
+    font-family: "Zeyada", "Amatic SC", "Trebuchet MS";
 
 }
 #Services .each-service .service-icon {
@@ -501,7 +501,7 @@ ul, li {
 /*new about style goes here */
 
 #about p {
-	font-size: 15px;
+	font-size: 17px;
     font-weight: 400;
     color: #a6a7aa;
     margin-bottom: 15px;
