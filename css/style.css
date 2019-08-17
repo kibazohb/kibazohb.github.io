@@ -759,7 +759,9 @@ ul, li {
 	width: 100%;
 	height: relative;
 	text-align: center;
-	background: url(../images/umbrellas.jpeg) no-repeat 0 20% / cover;
+	background: url(../images/umbrellas.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100%;
 	background-attachment: fixed;
 }
 #newcontact .block-heading h2 {
