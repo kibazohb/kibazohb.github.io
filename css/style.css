@@ -280,7 +280,7 @@ ul, li {
 }
 /*Banner style goes here */
 #HeroBanner {
-	display: table;
+	/*display: table;*/
 	width: 100%;
 	height: 65vh;
 	background: url(../images/streetart.jpg);
