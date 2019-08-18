@@ -760,6 +760,9 @@ ul, li {
 	height: relative;
 	text-align: center;
 	background: url(../images/umbrellas.jpeg);
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
